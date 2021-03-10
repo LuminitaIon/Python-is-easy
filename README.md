@@ -24,3 +24,5 @@ and loses the game.
 The final project in this course. It's a card game where you play
 against the computer and you choose a number of cards and compture 
 choose a number random and who has the bigger number wins the game.
+
+My Certificate from this course
